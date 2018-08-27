@@ -10,6 +10,7 @@ public interface SplashContract {
     interface Presenter {
         void getSplash(String deviceId);
     }
+
     interface View {
 
     }
